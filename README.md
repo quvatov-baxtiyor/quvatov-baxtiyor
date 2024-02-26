@@ -1,7 +1,7 @@
 Hi! My name is Quvatov Baxtiyor! ✈️
 ========================================================================================================================================
 
-🌍  I am a Front-end Developer based in Tashkent, Uzbekistan.
+🌍  I am a Back-end Developer based in Tashkent, Uzbekistan.
 <br/>
 
 ### Skills
