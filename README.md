@@ -1,4 +1,4 @@
-Hi! My name is Akobir Sayfiyev! ✈️
+Hi! My name is Quvatov Baxtiyor! ✈️
 ========================================================================================================================================
 
 🌍  I am a Front-end Developer based in Tashkent, Uzbekistan.
@@ -7,15 +7,15 @@ Hi! My name is Akobir Sayfiyev! ✈️
 ### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=js,react)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=tailwind,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=PostgreSQL,MySQL)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=Database,DataGrip)](https://skillicons.dev)
 <br/>
 
 ### Socials
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/akobir-sayfiyev/">
+  <a href="https://www.linkedin.com/in/baxtiyor-quvatov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
