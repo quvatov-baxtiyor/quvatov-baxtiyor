@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/baxtiyor-quvatov-181565255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/baxtiyor-quvatov-181565255/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/baxtiyor-quvatov-181565255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baxtiyor-quvatov-181565255/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/quvatovbaxtiyor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="quvatovbaxtiyor" height="30" width="40" /></a>
 </p>
 
@@ -16,6 +16,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=quvatov-baxtiyor&show_icons=true&locale=en&layout=compact" alt="quvatov-baxtiyor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quvatov-baxtiyor&" alt="quvatov-baxtiyor" /></p>
+
 
 
 
