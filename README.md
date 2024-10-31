@@ -15,7 +15,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=quvatov-baxtiyor&show_icons=true&locale=en&layout=compact" alt="quvatov-baxtiyor" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quvatov-baxtiyor&" alt="quvatov-baxtiyor" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quvatov-baxtiyor&" alt="quvatov-baxtiyor" color="dracula"/></p>
 
 
 
